@@ -10,7 +10,7 @@ Happy to see you all in this event, let me just update you with rules and proces
 
 2. Plagiarism from other participants will not be tolerated, and you will be disqualified.
 
-3. You can pick ANY ONE of the given FOLDERS, and start adding style to that page, ONLY ONE will be considered for final evaluation.
+3. You can pick ANY ONE of the given FOLDERS (Artists), and start adding style to that page, ONLY ONE Fan page will be considered for final evaluation.
 
 4. Marking Scheme ->
    a. Web design - 45 marks
