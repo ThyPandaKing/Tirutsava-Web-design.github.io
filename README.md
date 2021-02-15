@@ -12,13 +12,14 @@ Happy to see you all in this event, let me just update you with rules and proces
 
 3. You can pick ANY ONE of the given FOLDERS (Artists), and start adding style to that page, ONLY ONE Fan page will be considered for final evaluation.
 
-4. Marking Scheme ->
-   a. Web design - 45 marks
-   b. Responsiveness - 25 marks
-   c. Animations used - 20 marks
-   d. Github pushes - 10 marks
+4. Submit before 21/02/2021
 
-5. Submit before 21/02/2021
+# Marking Scheme
+
+1. Web design - 45 marks
+2. Responsiveness - 25 marks
+3. Animations used - 20 marks
+4. Github pushes - 10 marks
 
 # Submission
 
