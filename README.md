@@ -6,7 +6,7 @@ Happy to see you all in this event, let me just update you with rules and proces
 
 # Rules
 
-1. Participant CAN'T REMOVE any html part , but CAN ADD some extra part according to his/her convenience.
+1. Participant CAN'T REMOVE any html part , but CAN ADD some extra part according to his/her convenience.You can reorganize the content if you want.
 
 2. Plagiarism from other participants will not be tolerated, and you will be disqualified.
 
